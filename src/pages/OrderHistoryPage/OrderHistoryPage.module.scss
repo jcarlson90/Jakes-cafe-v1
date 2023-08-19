@@ -2,14 +2,16 @@
 .OrderHistoryPage {
   height: 100%;
   display: grid;
-  grid-template-columns: 1.6fr 3.5fr 3fr;
+  grid-template-columns: 1.2fr 3.5fr 3fr;
   grid-template-rows: 1fr;
-  background-color: var(--white);
+  background-color: black;
+  color: wheat;
   border-radius: 2vmin;
+  border-color: red;
 }
 
 .OrderHistoryPage .aside {
-  display: flex;
+  display:grid;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;

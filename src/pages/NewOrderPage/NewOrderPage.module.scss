@@ -3,8 +3,10 @@
     display: grid;
     grid-template-columns: 1.6fr 3.5fr 3fr;
     grid-template-rows: 1fr;
-    background-color: var(--white);
+    background-color: black;
     border-radius: 2vmin;
+    color: wheat;
+    font-family: 'Metal Mania', cursive;
   }
   
   .NewOrderPage aside {
@@ -13,4 +15,5 @@
     justify-content: space-between;
     align-items: center;
     margin: 3vmin 2vmin;
+    font-family: 'Metal Mania', cursive;
   }
