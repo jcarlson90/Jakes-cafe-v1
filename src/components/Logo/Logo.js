@@ -3,8 +3,9 @@ import styles from './Logo.module.scss';
 export default function Logo() {
 return (
   <div className={styles.Logo}>
-    <div>JAKES</div>
-    <div>CAFE</div>
+    <div>Jakes</div>
+    <div>Music</div>
+    <div>Shop</div>
   </div>
 );
 }

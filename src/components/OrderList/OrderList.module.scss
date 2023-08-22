@@ -2,8 +2,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: var(--tan-1);
-    border: .1vmin solid var(--tan-3);
+    background-color: black;
+    border: .1vmin solid wheat;
     border-radius: 2vmin;
     margin: 3vmin 0;
     padding: 3vmin;
@@ -11,7 +11,7 @@
     }
     
     .OrderList .noOrders {
-    color: var(--text-light);
+    color: black;
     font-size: 2vmin;
     position: absolute;
     top: calc(50vh);

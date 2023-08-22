@@ -4,11 +4,11 @@
     align-items: center;
     padding: 3vmin;
     font-size: 2vmin;
-    color: var(--text-light);
+    color: wheat;
   }
   
   .OrderDetail .sectionHeading {
-    width: 100%
+    width: 90%
   }
   
   .OrderDetail .lineItemContainer {
@@ -23,7 +23,7 @@
     display: grid;
     grid-template-columns: 18.35vw 5.75vw 5.25vw;
     padding: 1vmin 0;
-    color: var(--text-light);
+    color: wheat;
     border-top: .1vmin solid var(--tan-3);
   }
   
@@ -32,7 +32,7 @@
     justify-content: center;
     align-items: center;
     font-size: 1.5vw;
-    color: var(--text-dark);
+    color: wheat;
   }
   
   .OrderDetail .total span.right {
