@@ -3,13 +3,16 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    background-color: var(--white);
+    background-image: url('https://i.imgur.com/mhd72NS.gif');
+    //background-color: black;
     border-radius: 2vmin;
+    font-family: 'Metal Mania';
   }
   
   .AuthPage h3 {
     margin-top: 4vmin;
     text-align: center;
-    color: var(--text-light);
+    color: wheat;
     cursor: pointer;
+    font-family: 'Metal Mania';
   }
